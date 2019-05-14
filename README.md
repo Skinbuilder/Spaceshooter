@@ -4,3 +4,4 @@
 -[ ] lokale Anpassungen
 
 -[ ] next Java Programmierung
+Git und Java
